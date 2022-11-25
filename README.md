@@ -5,9 +5,13 @@ Gamer. Thinker. Learner. Doer.
 
 Experience is simply the name given to mistakes already made, and breaking something is only scary until you learn how to put it back together.
 
-![image](https://user-images.githubusercontent.com/66834451/203926341-250fa040-dc43-4f71-89a6-c482bf34e9c0.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66834451/203926341-250fa040-dc43-4f71-89a6-c482bf34e9c0.png" alt="xkcd/150" />
+</p>
+<p align="center">
+  https://xkcd.com/150/
+</p>
 
-https://xkcd.com/150/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kynetical&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kynetical)](https://github.com/anuraghazra/github-readme-stats)
