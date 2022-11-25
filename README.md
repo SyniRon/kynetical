@@ -10,7 +10,6 @@
   https://xkcd.com/150/
 </p>
 
-<br>
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kynetical&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
